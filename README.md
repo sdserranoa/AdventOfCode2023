@@ -7,12 +7,18 @@ This is my try for 2023
    Don't make extra operation that solve a problem that does not exist
 2. Lesson 2
    Simplicity ofter is better without time contraints
-3. Lesson 2
+3. Lesson 3
 
    Consider edge cases!!
+4. Lesson 4
+
+   \
+
+
 
 - [x] Day1
 - [x] Day2
-- [ ] Day3
+- [x] Day3
+- [ ] Day4
 
 
